@@ -1,3 +1,7 @@
+# respuesta a las 6 preguntas del caso de estido
+
+[wiki](https://github.com/Jose-Robledo/reporte-ventas-/wiki/Respuestas)
+
 # Sistema de reporte de ventas
 
 Proyecto académico de Técnicas de Programación y Laboratorio. Lee ventas desde un CSV, calcula indicadores, genera una gráfica y solicita a Google Gemini un reporte ejecutivo.
